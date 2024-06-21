@@ -11,7 +11,7 @@ import requests
 channel_id = "UCbvwGzSKXa31P6yDRyoNJnA"
 
 # Definerer youtube API nøgle
-API_KEY = "AIzaSyBuxcs_NcLoxAfC1gPbssnuj5QDFUZys18"
+API_KEY = ""
 
 # Indhente data om kanal fra API
 channel_data_url = f"https://www.googleapis.com/youtube/v3/channels?part=snippet&id={channel_id}&key={API_KEY}"
