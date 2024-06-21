@@ -1,0 +1,27 @@
+{
+    "id": "6F2AF1A9",
+    "path": "~/Documents/DataAnalyseProjekter/YoutubeData/count ,wordcloud, sentiment.R",
+    "project_path": "count ,wordcloud, sentiment.R",
+    "type": "r_source",
+    "hash": "3367318968",
+    "contents": "",
+    "dirty": false,
+    "created": 1717881254302.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "74,14",
+        "scrollLine": "58"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718650536,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718650536896,
+    "read_only": false,
+    "read_only_alternatives": []
+}
